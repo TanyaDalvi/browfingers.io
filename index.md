@@ -1,7 +1,7 @@
 # Django Tutorial by Brownfingers
 
-Welcome to the Django Girls Tutorial! We are happy to see you here :) In this tutorial, we will take you on a journey under the hood of web technologies, offering you a glimpse of all the bits and pieces that need to come together to make the web work as we know it.
-As with all unknown things, this is going to be an adventure - but no worries, since you already worked up the courage to be here, you'll be just fine :)
+Welcome to the Django Tutorial by BrownFingers! We are happy to see you here :smiley:.In this tutorial, we will take you on a journey under the hood of web technologies, offering you a glimpse of all the bits and pieces that need to come together to make the web work as we know it.
+As with all unknown things, this is going to be an adventure - but no worries, since you already worked up the courage to be here, you'll be just fine :v:
 
 ## Introduction
 
@@ -23,14 +23,32 @@ Django is a web framework built with the Python programming language. Django's o
 **A framework like Django does two primary things:**
 1. It provides functionality that web applications:computer: perform over and over again. Let’s take look at user management as an example. There are various housekeeping chores that a program or app performs every time someone logs in: authentication, database permissions, password management, and displaying pre-built forms.
 Of course you can rewrite this functionality for every web application :nerd:, but why reinvent the wheel? Most web applications require user authentication, so why not use an authentication system that's already been built?:sunglasses: You'll save an enormous amount of time and can focus your efforts on the parts of the application that make it unique.:sparkles:
-
-Django offers tools for lots of functions, not just user management. It provides pre-built tools for database management, URL design, forms, templates, and much more.
+    Django offers tools for lots of functions, not just user management. It provides pre-built tools for database management, URL    design, forms, templates, and much more.
 
 2. The **second** thing the framework does is to provide_ a methodology for completing tasks._ If you want to create a web form to gather user data, there's a very specific place that you put the code that creates the forms, and there's a very specific way that you code them.
 
 The value in this is apparent on projects that go beyond a few pages or are functionally complex. Knowing how to write code, where to put code, and where to find code in larger projects can make the maintenance and evolution of the code much easier as time goes by.
 
 **In summary, Django is a web framework that provides a significant amount of pre-built functionality, reducing the time it takes you to complete projects. It prescribes a certain methodology for building applications, which is helpful in deciphering complex applications.**
+
+##### Installation
+
+In the workshop you will be building a blog, and there are a few setup tasks in the tutorial which would be good to work through beforehand so that you are ready to start coding on the day.
+
+-**Python Installation**
+According to its website, python.org, "Python is a programming language that lets you work quickly and integrate systems more effectively." It is the programming language that Django is based on, and is therefore used to create the CRM Easy application.
+This course requires a _**2.7 version of Python. **_
+
+-**Install Python On a Mac**
+Below are the steps to install Python on a Mac.
+
+Step 1: Verify Which Version of Python is Installed
+
+Macs come with Python pre-installed. Again, this course uses the 2.7.x (e.g. 2.7.5 or 2.7.6) version of Python. Some Mac OS X releases have a different version of Python installed. Therefore the first step is to verify what version of Python is installed on your computer. If it isn't in the 2.7.x range then it will need to be updated.
+
+To check which version of Python is installed open a terminal window by going into Spotlight (the magnifier in the upper right corner) and typing 'terminal'.
+
+Once the terminal is open, type python into it. This will start the Python interpreter, which will also show you the version number. In the following example the Python version is 2.7.5.
 
 ```markdown
 Syntax highlighted code block
