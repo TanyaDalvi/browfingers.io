@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+##Django Tutorial by Brownfingers
 
-You can use the [editor on GitHub](https://github.com/TanyaDalvi/browfingers.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Django Girls Tutorial! We are happy to see you here :) In this tutorial, we will take you on a journey under the hood of web technologies, offering you a glimpse of all the bits and pieces that need to come together to make the web work as we know it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As with all unknown things, this is going to be an adventure - but no worries, since you already worked up the courage to be here, you'll be just fine :)
 
 ### Markdown
 
